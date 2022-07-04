@@ -1,7 +1,7 @@
 # social-network-api
 
 - Github
-  https://github.com/FadesOner/Tech-Blog
+  https://github.com/FadesOner/social-network-api
 
 # Description
 
